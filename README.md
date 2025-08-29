@@ -7,7 +7,7 @@
 Dataset contains 1,275 records with 23 columns, capturing various aspects of laptop specifications and pricing across multiple brands.
 
 # Key Findings
-# 🔹 Product & Brand Distribution
+#  Product & Brand Distribution
 
 Dell is the leading company (291 laptops), followed by HP, Lenovo, and Asus.
 
@@ -15,7 +15,7 @@ Dataset covers 618 unique products and 19 companies.
 
 Most laptops are Notebook type (707 records).
 
-# 🔹 Hardware Specifications
+#  Hardware Specifications
 
 Screen Size: Average 15 inches (range 10.1–18.4).
 
@@ -33,7 +33,7 @@ CPU: Predominantly Intel-based, most common model is Core i5-7200U.
 
 GPU: Largely integrated Intel GPUs (HD Graphics 620 most common).
 
-# 🔹 Price Distribution
+#  Price Distribution
 
 Average price: ~€1,135
 
@@ -43,7 +43,7 @@ Highest price: €6,099
 
 Majority fall in the €600–€1500 range, indicating a mid-market concentration.
 
-# 🔹 Display Features
+#  Display Features
 
 Resolution: Most laptops feature Full HD (1920×1080).
 
@@ -53,7 +53,7 @@ IPS panels: Present in ~28% of laptops.
 
 Retina displays: Very rare (only 17 laptops).
 
-# 🔹 Operating Systems
+#  Operating Systems
 
 Windows 10 dominates (82% of records).
 
